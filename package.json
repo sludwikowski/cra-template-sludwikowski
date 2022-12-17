@@ -5,7 +5,7 @@
     "np": "^7.6.2"
   },
   "scripts": {
-    "test": "npm run test",
+    "test": "npm test",
     "release": "np"
   }
 }
